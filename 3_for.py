@@ -33,6 +33,7 @@ for i in range(1,11,1):
     result = result + i
 print(result)
 
+
 # 문제: 구구단을 출력하시오
 
 for i in range(2,10,1):
